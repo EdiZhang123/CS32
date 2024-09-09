@@ -4,6 +4,8 @@ UCLA CS32 David Smallberg Spring 2024
 
 Grade: A
 
+| Assignment | Grade  |
+| ------------- |:-------------:| -----:|
 | Project 1 | 100/100 |
 | Project 2 | 96/100 |
 | Project 3 | 100/100 |
